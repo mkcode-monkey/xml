@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StoreData>
+	<StoreItem>
+		<id>1</id>
+		<name>AAAA</name>
+		<gold>500</gold>
+		<model>prefab_1</model>
+		<active>true</active>
+	</StoreItem>
+	<StoreItem>
+		<id>2</id>
+		<name>BBBB</name>
+		<gold>1000</gold>
+		<model>prefab_2</model>
+		<active>true</active>
+	</StoreItem>
+	<StoreItem>
+		<id>1</id>
+		<name>CCCC</name>
+		<gold>2000</gold>
+		<model>prefab_3</model>
+		<active>false</active>
+	</StoreItem>
+	<StoreItem>
+		<id>1</id>
+		<name>DDDD</name>
+		<gold>3000</gold>
+		<model>prefab_4</model>
+		<active>false</active>
+	</StoreItem>
+</StoreData>
