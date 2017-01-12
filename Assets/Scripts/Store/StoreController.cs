@@ -12,6 +12,11 @@ public class StoreController : MonoBehaviour {
     /// </summary>
     public List<StoreItem> storeItemList = new List<StoreItem>();
 
+    public List<StoreItem> Store
+    {
+        get { return storeItemList; }
+    }
+
     /// <summary>
     /// 初始化实体数据集合.
     /// </summary>
